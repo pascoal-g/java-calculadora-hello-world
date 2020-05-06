@@ -51,3 +51,9 @@ Abra o executor de comandos do code com <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</
 > Run and Debug 
 ```
 
+## Testando
+
+``` 
+curl http://localhost:8080/v1/calculadora/somar/10/20
+```
+
