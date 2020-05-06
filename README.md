@@ -22,7 +22,7 @@ Clique em Generate, isso irá baixar o projeto no formato ZIP.
 
 ### Instale o plugin Maven for Java
 
-[https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven](ttps://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
+[vscode-maven](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
 
 # Iniciando o projeto
