@@ -5,7 +5,7 @@ FIAP 2DVP - Microservices
 ## Gerar o projeto com SpringBoot
 [start.spring.io](https://start.spring.io/)
 
-### Configure seu projeto:
+## Configure seu projeto:
 ```
 Project: Maven Project
 Language: Java
@@ -18,14 +18,12 @@ Spring Boot Actuator (dentro do menu Ops)
 ```
 Clique em Generate, isso irá baixar o projeto no formato ZIP.
 
-# Configurações no VsCode
-
-### Instale o plugin Maven for Java
+## Instale o plugin Maven for Java para o VsCode
 
 [vscode-maven](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
 
-# Iniciando o projeto
+## Iniciando o projeto
 
 1. Baixe o projeto .zip no seu workspace e descompacte-o
 
